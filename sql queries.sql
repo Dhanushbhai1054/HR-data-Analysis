@@ -75,7 +75,7 @@ SELECT
 FROM (
   SELECT
     CASE
-      WHEN age <= 21 AND age <= 30 THEN '21 to 30'
+      WHEN age <= 24 AND age <= 30 THEN '24 to 30'
       WHEN age <= 31 AND age <= 40 THEN '31 to 40'
       WHEN age <= 41 AND age <= 50 THEN '41-50'
       ELSE '50+'
