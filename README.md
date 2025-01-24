@@ -40,8 +40,14 @@ This project uses SQL and Power BI to analyze and visualize human resource data,
 For a detailed analysis and findings, please refer to the [PDF report](https://github.com/Dhanushbhai1054/HR-data-Analysis/blob/main/Hr%20report.pdf).
 
 ## Commit Reference
-You can view the detailed commit with the following link:  
-[Commit Details](https://github.com/Dhanushbhai1054/HR-data-Analysis/commit/86e507b87d31a82f4dd6a873b635b03824afdb92)
+## Report Preview
+
+### Report Image 1
+![Report Image 1](https://github.com/Dhanushbhai1054/HR-data-Analysis/blob/main/report1.jpg)
+
+### Report Image 2
+![Report Image 2](https://github.com/Dhanushbhai1054/HR-data-Analysis/blob/main/report2.jpg)
+
 
 
 
