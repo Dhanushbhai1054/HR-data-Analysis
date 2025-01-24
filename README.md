@@ -37,7 +37,7 @@ This project uses SQL and Power BI to analyze and visualize human resource data,
 11. Employee hire counts have increased steadily over the years, with fluctuations due to terminations.
 
 ## PDF Report
-For a detailed analysis and findings, please refer to the [PDF report](https://github.com/yourusername/HR-Data-Analysis-Report.pdf).
+For a detailed analysis and findings, please refer to the [PDF report](https://github.com/Dhanushbhai1054/HR-data-Analysis/blob/main/Hr%20report.pdf).
 
 ## Author
 Venkata Sai Dhanush Miriyala 
